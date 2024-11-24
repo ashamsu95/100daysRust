@@ -1,6 +1,6 @@
-Mastering Data Structures and Algorithms in Rust: 100-Day Challenge 🚀
+🚀 Mastering Data Structures and Algorithms in Rust: 100-Day Challenge
 
-This repository documents my journey to mastering data structures and algorithms through a 100-day challenge. The plan covers fundamental to advanced topics like arrays, trees, graphs, dynamic programming, and more, using Rust as the programming language.
+This repository documents my journey to mastering data structures and algorithms through a structured 100-day challenge. The plan covers fundamental to advanced topics like arrays, trees, graphs, dynamic programming, and more, all implemented using Rust.
 🗓️ Routine Overview
 
     Duration: 100 Days
@@ -20,5 +20,7 @@ This repository documents my journey to mastering data structures and algorithms
 
 🛠️ Tech Stack
 
-    Language: Rust
-    Platforms: LeetCode, Codeforces
+    Programming Language: Rust 🦀
+    Platforms:
+        LeetCode
+        Codeforces
